@@ -1,0 +1,87 @@
+Fetching articles from: https://www.bbc.com/news
+Error parsing date for article: Russia risked lives in downed plane, says Zelensky
+Publication date string: 5h
+Error parsing date for article: Man sentenced to death for Japan anime studio fire
+Publication date string: 13m
+Error parsing date for article: Captain Cook statue sawn off ahead of Australia Day
+Publication date string: 4h
+Error parsing date for article: A jobs crisis in India is driving workers to Israel
+Publication date string: 5h
+Error parsing date for article: Downed Russian plane leaves unanswered questions
+Publication date string: 8h
+Error parsing date for article: Grounded jets cleared to fly after Alaska blow out
+Publication date string: 4h
+Error parsing date for article: Dozens killed and injured in fire at Chinese shop
+Publication date string: 15h
+Error parsing date for article: US inmate hours away from first nitrogen execution
+Publication date string: 3h
+Error parsing date for article: UK to loan back Ghana's looted 'crown jewels'
+Publication date string: 8h
+Error parsing date for article: Woman rescued after 14 hours atop submerged car
+Publication date string: 6h
+Error parsing date for article: England spinner Bashir granted visa for India
+Publication date string: 16h
+Error parsing date for article: Woman rescued after 14 hours atop submerged car
+Publication date string: 6h
+Error parsing date for article: England spinner Bashir granted visa for India
+Publication date string: 16h
+Error parsing date for article: Thai political hope overcomes first court hurdle
+Publication date string: 17h
+Error parsing date for article: Controversy after Ukrainian-born model crowned Miss Japan
+Publication date string: 20h
+Error parsing date for article: Halle Berry's film shelved by Netflix - US media
+Publication date string: 5h
+Error parsing date for article: Myanmar's army is losing - and facing fire from a militant monk
+Publication date string: 5h
+Error parsing date for article: BBC World News TV
+Publication date string: 5h
+Error parsing date for article: BBC World Service Radio
+Publication date string: 5h
+Error parsing date for article: South Africa fire survivors living in unsafe shacks
+Publication date string: 5h
+Error parsing date for article: Indian villagers taking on a billionaire's port plan
+Publication date string: 5h
+Error parsing date for article: Hot wheels - how wheelchair tennis became a Grand Slam draw
+Publication date string: 5h
+Error parsing date for article: Is North Korea's leader actually considering war?
+Publication date string: 5h
+Error parsing date for article: Add salt to make perfect cup of tea, US scientist says
+Publication date string: 5h
+Error parsing date for article: 'Frozen' alligators still alive in icy cold waters
+Publication date string: 5h
+Error parsing date for article: Amazon's record drought driven by climate change
+Publication date string: 5h
+Error parsing date for article: Top Arizona Republican quits over leaked tape offer
+Publication date string: 5h
+Error parsing date for article: Bob Marley fans Harry and Meghan attend film launch
+Publication date string: 5h
+Error parsing date for article: Saudi Arabia to get first alcohol shop in 70 years
+Publication date string: 5h
+Error parsing date for article: Jon Stewart makes part-time return to Daily Show
+Publication date string: 5h
+Error parsing date for article: IVF hope for world's last two northern white rhinos
+Publication date string: 5h
+Error parsing date for article: Mediators push for Gaza ceasefire but gaps remain
+Publication date string: 5h
+Error parsing date for article: Israel says 24 soldiers killed in Gaza in one day
+Publication date string: 5h
+Error parsing date for article: 'The unstoppable wars have destroyed our lives'
+Publication date string: 5h
+Error parsing date for article: Understanding a week of missile strikes across Middle East
+Publication date string: 5h
+Error parsing date for article: 'I go to sleep a dead man' - father's pain at daughter's captivity in Gaza
+Publication date string: 5h
+Error parsing date for article: How one rhino became a global celebrity
+Publication date string: 5h
+Error parsing date for article: Why employers are stingy with interview feedback
+Publication date string: 5h
+Error parsing date for article: Seven of the best spas on the island of Bali
+Publication date string: 5h
+Error parsing date for article: Masters of the Air review: 'Gripping' but 'creaky'
+Publication date string: 5h
+Error parsing date for article: Why asbestos is getting into drinking water
+Publication date string: 5h
+Error parsing date for article: How Cisco is bridging the global 'digital divide'
+Publication date string: 5h
+Error parsing date for article: Hiking Madeira's death-defying mountain paths
+Publication date string: 5h
